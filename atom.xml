@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://calclovershome.github.io/</id>
+    <id>https://calclovershome.github.io/</id>
     <title>计算器爱好者之家</title>
-    <updated>2020-11-27T14:50:27.619Z</updated>
+    <updated>2020-11-27T14:56:37.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://calclovershome.github.io/"/>
-    <link rel="self" href="https://https://calclovershome.github.io/atom.xml"/>
+    <link rel="alternate" href="https://calclovershome.github.io/"/>
+    <link rel="self" href="https://calclovershome.github.io/atom.xml"/>
     <subtitle>欢迎来到计算器爱好者之家，祝大家玩的愉快</subtitle>
-    <logo>https://https://calclovershome.github.io/images/avatar.png</logo>
-    <icon>https://https://calclovershome.github.io/favicon.ico</icon>
+    <logo>https://calclovershome.github.io/images/avatar.png</logo>
+    <icon>https://calclovershome.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 计算器爱好者之家</rights>
     <entry>
         <title type="html"><![CDATA[我们是计算器爱好者！]]></title>
-        <id>https://https://calclovershome.github.io/post/about/</id>
-        <link href="https://https://calclovershome.github.io/post/about/">
+        <id>https://calclovershome.github.io/post/about/</id>
+        <link href="https://calclovershome.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>作者：<a href="https://www.zhihu.com/people/malachiten">Malachite</a></p>
+<blockquote>
+<p>欢迎来到计算器爱好者之家，很高兴在这里见到各位。</p>
+</blockquote>
+]]></summary>
         <content type="html"><![CDATA[<p>作者：<a href="https://www.zhihu.com/people/malachiten">Malachite</a></p>
 <blockquote>
 <p>欢迎来到计算器爱好者之家，很高兴在这里见到各位。</p>
 </blockquote>
-<hr>
+<h2 id="-more-"><!--more--></h2>
 <p>不知道大家都是怎样找到这里的呢？</p>
 <p>我们渐渐从一般的玩耍起步，进阶到开始深挖其中的细节和技术的地步，对同好们精心考据、认真研究得到的计算器知识无比景仰。</p>
 <p>高尔基曾说，书籍是人类进步的阶梯。人类依靠书籍，把自己的知识和见解分享出去，供大家学习，才有了知识的沉淀和结晶，才有了人类的发展和辉煌。而对于计算器爱好这个小众爱好而言，这话同样适用。</p>
